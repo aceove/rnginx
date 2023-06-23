@@ -1,2 +1,2 @@
 # rnginx
-rust imp nginx
+rust impl nginx
